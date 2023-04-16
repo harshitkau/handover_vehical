@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082899667213",
+    "project_id": "handover-vehical",
+    "storage_bucket": "handover-vehical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082899667213:android:0c05cd7e7d88b7be99f844",
+        "android_client_info": {
+          "package_name": "com.example.handover_vehical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082899667213-vaf5p4nclvdfmmn0tpstha713mjf8jhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTSaLJQIRIsReEPKiz9zpgRb3h1jNfmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082899667213-vaf5p4nclvdfmmn0tpstha713mjf8jhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
